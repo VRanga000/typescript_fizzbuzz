@@ -11,7 +11,7 @@ npm run build
 
 ## Test
 
-``
+```
 npm run test
 ```
 
